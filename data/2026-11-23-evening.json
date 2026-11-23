@@ -18,8 +18,6 @@
         {
           "title": "Epic 官宣 UE6 路线：项目将不含蓝图与 Actor 框架，转向 Verse + Scene Graph",
           "summary": "11-20 官方公告，Epic 开发执行副总裁 Marcus Wassmer 说明 UE6 与 UEFN 合并为统一引擎，玩法改用 Verse 与新 Scene Graph 构建；对现有 UE5 项目的迁移影响是引擎选型的关键变量。本窗口无新发布，属近期重要动向。",
-          "image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1920/quality=value:90/auto_image/cmwp1iwz01f7m07lnsxz10flo?width=1920",
-          "imageCredit": "Unreal Engine 官网",
           "sources": [
             {"name": "Unreal Engine 官方", "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6", "date": "2026-11-20", "note": "官方原文，一手"}
           ]
@@ -34,6 +32,8 @@
         {
           "title": "育碧业绩不及预期，加码押注 AI 开发",
           "summary": "Game Developer 11-20 报道，育碧财测落空并把重心转向 AI 辅助开发。对休闲手游团队的信号：大厂正把 AI 降本作为对冲业绩压力的主线之一。",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltb66c65be8013263e/68f2953811a1e30cb46f9d11/assassinscreedwholegangfeatured.jpg?width=1400&auto=webp&quality=80&disable=upscale",
+          "imageCredit": "Game Developer 报道配图",
           "sources": [
             {"name": "Game Developer", "url": "https://www.gamedeveloper.com/business/ubisoft-misses-forecast-and-bets-big-on-ai-development", "date": "2026-11-20", "note": "媒体转述，单源待核"}
           ]
